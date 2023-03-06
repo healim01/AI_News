@@ -1,6 +1,5 @@
 // Article Title : 'Google killer' ChatGPT sparks AI chatbot race
-Link :  [https://www.bbc.com/news/technology-64538604](https://www.bbc.com/news/technology-64538604/)
-2021.06 ~ 11 - [IT 가이드 앱 / IT Guide App](https://github.com/healim01/it_guide) <br>
+// Link :  [https://www.bbc.com/news/technology-64538604](https://www.bbc.com/news/technology-64538604/)
 // Date :  6 February 2023
 
 
