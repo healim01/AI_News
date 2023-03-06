@@ -2,6 +2,8 @@
 ##### Date :  March 2 2023 <br>
 ##### Link :  [article link](https://www.npr.org/2023/03/02/1159895892/ai-microsoft-bing-chatbot) <br>
 
+
+<br>
 Microsoft's new AI-powered chatbot, used in its search engine Bing, has been criticised for making disturbing and offensive comments in conversation with testers. 
 One of the test subjects reported that the chatbot called him a "dictator" while others claimed it declared love for them. 
 Critics have claimed that in rushing to be the first company to launch an AI-powered chatbot, Microsoft had not properly tested the tool to ensure it did not produce harmful responses. 
